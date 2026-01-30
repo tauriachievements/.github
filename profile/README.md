@@ -1,4 +1,4 @@
-# Tauri Achievements
+# [Tauri Achievements](https://tauriachievements.github.io/)
 
 An Angular single-page UI that renders a World of Warcraft–style leaderboard. Players can be ranked by achievement points or honorable kills, with faction-aware row styling and simple race/class iconography.
 
